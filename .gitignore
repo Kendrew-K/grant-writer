@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.claude/
+
+# The applicant's private data: their profile, the grant tracker, and every
+# drafted application. The repo ships example_profile.md instead.
+profile.md
+grants.csv
+applications/
